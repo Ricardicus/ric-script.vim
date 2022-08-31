@@ -13,7 +13,7 @@ and the file detecter to ftdetect/ric.vim to ~/.config/nvim/ftdetect/ric.vim .
 
 Insert this line:
 
-´´´
+```
 Plug 'Ricardicus/ric-script.vim'
-´´´
+```
 
